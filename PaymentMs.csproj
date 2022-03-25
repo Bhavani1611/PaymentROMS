@@ -15,5 +15,11 @@
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="YAMLFile.yml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>

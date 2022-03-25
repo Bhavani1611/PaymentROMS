@@ -88,3 +88,4 @@ C:\Users\2085254\source\repos\Final Microservices\PaymentMs\obj\Debug\netcoreapp
 C:\Users\2085254\source\repos\Final Microservices\PaymentMs\obj\Debug\netcoreapp3.1\PaymentMs.dll
 C:\Users\2085254\source\repos\Final Microservices\PaymentMs\obj\Debug\netcoreapp3.1\PaymentMs.pdb
 C:\Users\2085254\source\repos\Final Microservices\PaymentMs\obj\Debug\netcoreapp3.1\PaymentMs.genruntimeconfig.cache
+C:\Users\2085254\source\repos\Final Microservices\PaymentMs\bin\Debug\netcoreapp3.1\YAMLFile.yml
